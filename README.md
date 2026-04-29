@@ -1,31 +1,27 @@
-## Hi there 👋
-
-<!--
 # Hi 👋 I'm Anirudh Patil
 
 ## 🚀 Front-End Developer
 
-Passionate about building responsive and modern web applications.
+Passionate about creating modern, responsive, and user-friendly websites.
 
-### 💻 Skills
+## 💻 Tech Stack
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Tailwind CSS
-* Git & GitHub
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git\&logoColor=white)
 
-### 📌 Current Goal
+## 📌 Current Focus
 
-Building projects and growing as a Front-End Developer.
+* Building Front-End Projects
+* Learning React.js
+* Improving UI/UX Skills
 
-### 📫 Connect With Me
+## 📫 Connect
 
 * GitHub: https://github.com/anirudhxdev
 
-### ⚡ Fun Fact
+## ⚡ Quote
 
-I love turning ideas into websites.
+Code. Learn. Improve. Repeat.
 
--->
