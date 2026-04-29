@@ -1,16 +1,31 @@
 ## Hi there 👋
 
 <!--
-**anirudhxdev/anirudhxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Anirudh Patil
 
-Here are some ideas to get you started:
+## 🚀 Front-End Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Passionate about building responsive and modern web applications.
+
+### 💻 Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Tailwind CSS
+* Git & GitHub
+
+### 📌 Current Goal
+
+Building projects and growing as a Front-End Developer.
+
+### 📫 Connect With Me
+
+* GitHub: https://github.com/anirudhxdev
+
+### ⚡ Fun Fact
+
+I love turning ideas into websites.
+
 -->
